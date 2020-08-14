@@ -38,9 +38,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>    
 
 <a href="https://github.com/cagriaydin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagriaydin&theme=light&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagriaydin&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/cagriaydin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagriaydin&show_icons=true&theme=light&line_height=25" alt="Cagri's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagriaydin&show_icons=true&theme=dark&line_height=25" alt="Cagri's github stats"/>
 </a>
 
