@@ -9,6 +9,9 @@
 <a href="https://medium.com/@cagriaydin/">
   <img align="left" alt="Cagri's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://stackoverflow.com/users/8428950/%C3%87a%C4%9Fr%C4%B1-ayd%C4%B1n">
+  <img align="left" alt="Cagri's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
 <br/>
 <br/>
