@@ -1,4 +1,4 @@
-## Hello, I'm Çağrı 👋
+## Hello, I'm [Çağrı Aydın](https://cagriaydin.github.io) 👋
 
 <a href="https://linkedin.com/in/cagriaydin">
   <img align="left" alt="Cagri's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
