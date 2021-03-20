@@ -22,7 +22,7 @@
 
 
 - 🔭 I’m currently working with [Square1](https://www.square1.io/) as Flutter Developer.
-- 🌱 I’m currently learning **Redux**.
+- 🌱 I’m currently learning more about **Blockchain**.
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter).
 - 🤔 I’m looking for help with Social Responsibility projects.
 - 💬 Ask me about **Flutter**, **.Net**</b> or any tech related stuff.
