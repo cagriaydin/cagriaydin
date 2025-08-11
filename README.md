@@ -1,52 +1,32 @@
-## Hello, I'm [Çağrı Aydın](https://cagriaydin.github.io) 👋
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Cagri Aydin</h1>
 
-<a href="https://linkedin.com/in/cagriaydin">
-  <img align="left" alt="Cagri's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/cagriaydin">
-  <img align="left" alt="Cagri's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://medium.com/@cagriaydin/">
-  <img align="left" alt="Cagri's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://stackoverflow.com/users/8428950/%C3%87a%C4%9Fr%C4%B1-ayd%C4%B1n">
-  <img align="left" alt="Cagri's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="http://twitter.com/flutterremote">
-  <img align="left" alt="Cagri's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br/>
-<br/>
-
-
-
-- 🔭 I’m currently working with [Square1](https://www.square1.io/) as Flutter Developer.
-- 🌱 I’m currently learning more about **Blockchain**.
+# 💫 About Me :
+- 🔭 I’m currently building [Kids Radio+](https://kidsradioplus.com/).
+- 🌱 I’m currently learning more about AI.
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter).
-- 🤔 I’m looking for help with Social Responsibility projects.
-- 💬 Ask me about **Flutter**, **.Net**</b> or any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/cagriaydin)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: Check [LinkedIn](https://linkedin.com/in/cagriaydin) or visit my [Portfolio](https://cagriaydin.github.io).
+- ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
 
-[![Linkedin: cagriaydin](https://img.shields.io/badge/-cagriaydin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cagriaydin/)](https://www.linkedin.com/in/cagriaydin/)
-[![GitHub cagriaydin](https://img.shields.io/github/followers/cagriaydin?label=follow&style=social)](https://github.com/cagriaydin)
+## 💻 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+## 👨🏻‍💻 Laptop in use & Favorite Terminal
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
-**Languages and Tools:**  
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cagriaydin&theme=vue"/>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cagriaydin&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+</p>
 
-<a href="https://github.com/cagriaydin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagriaydin&show_icons=true&theme=dark&line_height=25&count_private=true&icon_color=00B4AA" alt="Cagri's github stats"/>
-</a>
-<a href="https://github.com/cagriaydin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagriaydin&theme=dark&layout=compact" />
-</a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
